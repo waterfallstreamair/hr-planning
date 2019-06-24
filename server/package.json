@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "server app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Alex",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.0.5",
+    "graphql": "^0.13.2"
+  }
+}

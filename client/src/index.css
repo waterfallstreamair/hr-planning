@@ -1,0 +1,17 @@
+body {
+    background-color: #000000;
+    color: #eeeeee;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    width: 100px;
+    padding: 5px;
+}
+
+tr:hover {
+    background-color: #111111;
+}
